@@ -38,4 +38,4 @@ while(True):
 ## Sending the code to ESP
 
 Just click on `Send to ESP` and the code will execute in your NodeMCU. You will be able to see the NodeMCU LED Blinking.
-![Image4](https://github.com/Chester-King/MicroPython-NodeMCU-Installation/blob/master/Images/demp.jpeg)
+![Image4](https://github.com/Chester-King/MicroPython-NodeMCU-Installation/blob/master/Images/demo.jpeg)
