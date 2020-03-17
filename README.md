@@ -2,7 +2,7 @@
 
 This is a step by step installation guide on how to run micropython on NodeMCU and a sample Blink micropython code
 
-## Installing
+## Installation
 
 - You would first need NodeMCU-PyFlasher to flash the NodeMCU with the required firmware. You can download NodeMCU-Pyflasher for your machine from [here](https://github.com/marcelstoer/nodemcu-pyflasher/releases). You can directly get the executable file from [here for 64-bit](https://github.com/marcelstoer/nodemcu-pyflasher/releases/download/v4.0/NodeMCU-PyFlasher-4.0-x64.exe) and [here for 32-bit](https://github.com/marcelstoer/nodemcu-pyflasher/releases/download/v4.0/NodeMCU-PyFlasher-4.0-x86.exe). For Mac you can get the dmg file from [here for dmg](https://github.com/marcelstoer/nodemcu-pyflasher/releases/download/v4.0/NodeMCU-PyFlasher-4.0.dmg). You can also get the source code from [here - zip file](https://github.com/marcelstoer/nodemcu-pyflasher/archive/v4.0.zip) and [here - tar.gz file](https://github.com/marcelstoer/nodemcu-pyflasher/archive/v4.0.tar.gz)
 - You would also need the MicroPython firmware for ESP8266 to flash the NodeMCU with it. You can either directly download it from [here](http://micropython.org/resources/firmware/esp8266-20191220-v1.12.bin) or can go to the [MicroPython Download Section](http://micropython.org/download) and get it yourself. I recommend you download a stable firmware.
