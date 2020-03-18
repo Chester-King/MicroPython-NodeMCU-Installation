@@ -13,7 +13,7 @@ This is a step by step installation guide on how to run micropython on NodeMCU a
 
 - First you need to Flash the NodeMCU with the MicroPython Firmware. For this Open the NodeMCU-PyFlasher and select the firmware from where you downloaded it. Make sure **Erase flash** setting is set to yes. ![Image1](https://github.com/Chester-King/MicroPython-NodeMCU-Installation/blob/master/Images/Flasher.png)
 - Run the ESPlorer.bat file in the ESPlorer folder. That will execute a series of commands for you which will be used to run ESPlorer. ![Image2](https://github.com/Chester-King/MicroPython-NodeMCU-Installation/blob/master/Images/cli.png) ![Image3](https://github.com/Chester-King/MicroPython-NodeMCU-Installation/blob/master/Images/espl.png)
-- After this click on Open in ESPlorer while NodeMCU is connected to your machine. Then while it is Open RESET the NodeMCU. ![Image4](https://pbs.twimg.com/media/CgrGCrRUgAAOcvn.jpg)
+- After this click on Open in ESPlorer while NodeMCU is connected to your machine. Then while it is Open RESET the NodeMCU. ![Image4](https://github.com/Chester-King/MicroPython-NodeMCU-Installation/blob/master/Images/espl2.png)
 
 ## Writing MicroPython Code
 
