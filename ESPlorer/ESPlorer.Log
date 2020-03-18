@@ -914,3 +914,2005 @@
   <thread>16</thread>
   <message>Operation done. Duration = 114 ms</message>
 </record>
+<record>
+  <date>2020-03-18T20:19:02</date>
+  <millis>1584542942058</millis>
+  <sequence>88</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>DataSender: start "Dumb Mode"</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:02</date>
+  <millis>1584542942059</millis>
+  <sequence>89</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>SendToESP: Starting...</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:02</date>
+  <millis>1584542942068</millis>
+  <sequence>90</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:import time</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:02</date>
+  <millis>1584542942070</millis>
+  <sequence>91</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:import machine</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:02</date>
+  <millis>1584542942074</millis>
+  <sequence>92</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:02</date>
+  <millis>1584542942076</millis>
+  <sequence>93</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:pin=machine.Pin(14,machine.Pin.OUT)</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:02</date>
+  <millis>1584542942078</millis>
+  <sequence>94</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:02</date>
+  <millis>1584542942079</millis>
+  <sequence>95</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:pin1=machine.Pin(2,machine.Pin.OUT)</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:02</date>
+  <millis>1584542942081</millis>
+  <sequence>96</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:pin2=machine.Pin(16,machine.Pin.OUT)</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:02</date>
+  <millis>1584542942083</millis>
+  <sequence>97</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:02</date>
+  <millis>1584542942085</millis>
+  <sequence>98</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:while(True):</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:02</date>
+  <millis>1584542942087</millis>
+  <sequence>99</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:    pin1.on()</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:02</date>
+  <millis>1584542942089</millis>
+  <sequence>100</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:    time.sleep(1)</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:02</date>
+  <millis>1584542942092</millis>
+  <sequence>101</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:    pin1.off()</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:02</date>
+  <millis>1584542942094</millis>
+  <sequence>102</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:    time.sleep(2)</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:02</date>
+  <millis>1584542942096</millis>
+  <sequence>103</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:    </message>
+</record>
+<record>
+  <date>2020-03-18T20:19:02</date>
+  <millis>1584542942105</millis>
+  <sequence>104</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Operation done. Duration = 53 ms</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:15</date>
+  <millis>1584542955411</millis>
+  <sequence>105</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>DataSender: start "Dumb Mode"</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:15</date>
+  <millis>1584542955412</millis>
+  <sequence>106</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>SendToESP: Starting...</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:15</date>
+  <millis>1584542955421</millis>
+  <sequence>107</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:import time</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:15</date>
+  <millis>1584542955424</millis>
+  <sequence>108</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:import machine</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:15</date>
+  <millis>1584542955427</millis>
+  <sequence>109</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:15</date>
+  <millis>1584542955429</millis>
+  <sequence>110</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:pin=machine.Pin(14,machine.Pin.OUT)</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:15</date>
+  <millis>1584542955431</millis>
+  <sequence>111</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:15</date>
+  <millis>1584542955432</millis>
+  <sequence>112</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:pin1=machine.Pin(2,machine.Pin.OUT)</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:15</date>
+  <millis>1584542955434</millis>
+  <sequence>113</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:pin2=machine.Pin(16,machine.Pin.OUT)</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:15</date>
+  <millis>1584542955436</millis>
+  <sequence>114</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:15</date>
+  <millis>1584542955437</millis>
+  <sequence>115</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:while(True):</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:15</date>
+  <millis>1584542955439</millis>
+  <sequence>116</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:    pin1.on()</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:15</date>
+  <millis>1584542955441</millis>
+  <sequence>117</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:    time.sleep(1)</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:15</date>
+  <millis>1584542955443</millis>
+  <sequence>118</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:#    pin1.off()</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:15</date>
+  <millis>1584542955446</millis>
+  <sequence>119</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:#    time.sleep(2)</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:15</date>
+  <millis>1584542955447</millis>
+  <sequence>120</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:    </message>
+</record>
+<record>
+  <date>2020-03-18T20:19:15</date>
+  <millis>1584542955457</millis>
+  <sequence>121</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Operation done. Duration = 53 ms</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:20</date>
+  <millis>1584542960274</millis>
+  <sequence>122</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>DataSender: start "Dumb Mode"</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:20</date>
+  <millis>1584542960274</millis>
+  <sequence>123</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>SendToESP: Starting...</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:20</date>
+  <millis>1584542960283</millis>
+  <sequence>124</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:import time</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:20</date>
+  <millis>1584542960286</millis>
+  <sequence>125</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:import machine</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:20</date>
+  <millis>1584542960289</millis>
+  <sequence>126</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:20</date>
+  <millis>1584542960291</millis>
+  <sequence>127</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:pin=machine.Pin(14,machine.Pin.OUT)</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:20</date>
+  <millis>1584542960293</millis>
+  <sequence>128</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:20</date>
+  <millis>1584542960294</millis>
+  <sequence>129</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:pin1=machine.Pin(2,machine.Pin.OUT)</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:20</date>
+  <millis>1584542960296</millis>
+  <sequence>130</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:pin2=machine.Pin(16,machine.Pin.OUT)</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:20</date>
+  <millis>1584542960298</millis>
+  <sequence>131</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:20</date>
+  <millis>1584542960300</millis>
+  <sequence>132</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:while(True):</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:20</date>
+  <millis>1584542960302</millis>
+  <sequence>133</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:    pin1.on()</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:20</date>
+  <millis>1584542960304</millis>
+  <sequence>134</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:    time.sleep(1)</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:20</date>
+  <millis>1584542960306</millis>
+  <sequence>135</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:#    pin1.off()</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:20</date>
+  <millis>1584542960307</millis>
+  <sequence>136</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:#    time.sleep(2)</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:20</date>
+  <millis>1584542960309</millis>
+  <sequence>137</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:    </message>
+</record>
+<record>
+  <date>2020-03-18T20:19:20</date>
+  <millis>1584542960318</millis>
+  <sequence>138</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Operation done. Duration = 51 ms</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:22</date>
+  <millis>1584542962354</millis>
+  <sequence>139</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>DataSender: start "Dumb Mode"</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:22</date>
+  <millis>1584542962355</millis>
+  <sequence>140</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>SendToESP: Starting...</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:22</date>
+  <millis>1584542962364</millis>
+  <sequence>141</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:import time</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:22</date>
+  <millis>1584542962366</millis>
+  <sequence>142</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:import machine</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:22</date>
+  <millis>1584542962369</millis>
+  <sequence>143</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:22</date>
+  <millis>1584542962371</millis>
+  <sequence>144</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:pin=machine.Pin(14,machine.Pin.OUT)</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:22</date>
+  <millis>1584542962373</millis>
+  <sequence>145</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:22</date>
+  <millis>1584542962374</millis>
+  <sequence>146</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:pin1=machine.Pin(2,machine.Pin.OUT)</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:22</date>
+  <millis>1584542962376</millis>
+  <sequence>147</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:pin2=machine.Pin(16,machine.Pin.OUT)</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:22</date>
+  <millis>1584542962378</millis>
+  <sequence>148</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:22</date>
+  <millis>1584542962379</millis>
+  <sequence>149</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:while(True):</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:22</date>
+  <millis>1584542962382</millis>
+  <sequence>150</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:    pin1.on()</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:22</date>
+  <millis>1584542962384</millis>
+  <sequence>151</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:    time.sleep(1)</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:22</date>
+  <millis>1584542962386</millis>
+  <sequence>152</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:#    pin1.off()</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:22</date>
+  <millis>1584542962388</millis>
+  <sequence>153</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:#    time.sleep(2)</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:22</date>
+  <millis>1584542962390</millis>
+  <sequence>154</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:    </message>
+</record>
+<record>
+  <date>2020-03-18T20:19:22</date>
+  <millis>1584542962399</millis>
+  <sequence>155</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Operation done. Duration = 52 ms</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:58</date>
+  <millis>1584542998107</millis>
+  <sequence>156</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>We save known file NodeBlink.py</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:58</date>
+  <millis>1584542998108</millis>
+  <sequence>157</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Try to saving file NodeBlink.py ...</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:58</date>
+  <millis>1584542998110</millis>
+  <sequence>158</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Save file NodeBlink.py: Success.</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:58</date>
+  <millis>1584542998114</millis>
+  <sequence>159</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>pyFileSaveESP: Starting...</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:58</date>
+  <millis>1584542998120</millis>
+  <sequence>160</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>DataSender: start "Dumb Mode"</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:58</date>
+  <millis>1584542998128</millis>
+  <sequence>161</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:f=open('NodeBlink.py','w')</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:58</date>
+  <millis>1584542998129</millis>
+  <sequence>162</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:f.write('import time')</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:58</date>
+  <millis>1584542998132</millis>
+  <sequence>163</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:f.write('import machine')</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:58</date>
+  <millis>1584542998134</millis>
+  <sequence>164</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:f.write('')</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:58</date>
+  <millis>1584542998136</millis>
+  <sequence>165</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:f.write('pin=machine.Pin(14,machine.Pin.OUT)')</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:58</date>
+  <millis>1584542998138</millis>
+  <sequence>166</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:f.write('')</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:58</date>
+  <millis>1584542998140</millis>
+  <sequence>167</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:f.write('pin1=machine.Pin(2,machine.Pin.OUT)')</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:58</date>
+  <millis>1584542998142</millis>
+  <sequence>168</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:f.write('pin2=machine.Pin(16,machine.Pin.OUT)')</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:58</date>
+  <millis>1584542998144</millis>
+  <sequence>169</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:f.write('')</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:58</date>
+  <millis>1584542998146</millis>
+  <sequence>170</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:f.write('while(True):')</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:58</date>
+  <millis>1584542998148</millis>
+  <sequence>171</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:f.write('    pin1.on()')</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:58</date>
+  <millis>1584542998149</millis>
+  <sequence>172</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:f.write('    time.sleep(1)')</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:58</date>
+  <millis>1584542998151</millis>
+  <sequence>173</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:f.write('#    pin1.off()')</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:58</date>
+  <millis>1584542998153</millis>
+  <sequence>174</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:f.write('#    time.sleep(2)')</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:58</date>
+  <millis>1584542998154</millis>
+  <sequence>175</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:f.write('    ')</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:58</date>
+  <millis>1584542998156</millis>
+  <sequence>176</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:f.close()</message>
+</record>
+<record>
+  <date>2020-03-18T20:19:58</date>
+  <millis>1584542998165</millis>
+  <sequence>177</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Operation done. Duration = 51 ms</message>
+</record>
+<record>
+  <date>2020-03-18T20:20:02</date>
+  <millis>1584543002684</millis>
+  <sequence>178</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>We save known file NodeBlink.py</message>
+</record>
+<record>
+  <date>2020-03-18T20:20:02</date>
+  <millis>1584543002684</millis>
+  <sequence>179</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Try to saving file NodeBlink.py ...</message>
+</record>
+<record>
+  <date>2020-03-18T20:20:02</date>
+  <millis>1584543002685</millis>
+  <sequence>180</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Save file NodeBlink.py: Success.</message>
+</record>
+<record>
+  <date>2020-03-18T20:20:02</date>
+  <millis>1584543002688</millis>
+  <sequence>181</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>pyFileSaveESP: Starting...</message>
+</record>
+<record>
+  <date>2020-03-18T20:20:02</date>
+  <millis>1584543002695</millis>
+  <sequence>182</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>DataSender: start "Dumb Mode"</message>
+</record>
+<record>
+  <date>2020-03-18T20:20:02</date>
+  <millis>1584543002705</millis>
+  <sequence>183</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:f=open('NodeBlink.py','w')</message>
+</record>
+<record>
+  <date>2020-03-18T20:20:02</date>
+  <millis>1584543002707</millis>
+  <sequence>184</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:f.write('import time')</message>
+</record>
+<record>
+  <date>2020-03-18T20:20:02</date>
+  <millis>1584543002710</millis>
+  <sequence>185</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:f.write('import machine')</message>
+</record>
+<record>
+  <date>2020-03-18T20:20:02</date>
+  <millis>1584543002712</millis>
+  <sequence>186</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:f.write('')</message>
+</record>
+<record>
+  <date>2020-03-18T20:20:02</date>
+  <millis>1584543002714</millis>
+  <sequence>187</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:f.write('pin=machine.Pin(14,machine.Pin.OUT)')</message>
+</record>
+<record>
+  <date>2020-03-18T20:20:02</date>
+  <millis>1584543002715</millis>
+  <sequence>188</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:f.write('')</message>
+</record>
+<record>
+  <date>2020-03-18T20:20:02</date>
+  <millis>1584543002717</millis>
+  <sequence>189</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:f.write('pin1=machine.Pin(2,machine.Pin.OUT)')</message>
+</record>
+<record>
+  <date>2020-03-18T20:20:02</date>
+  <millis>1584543002719</millis>
+  <sequence>190</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:f.write('pin2=machine.Pin(16,machine.Pin.OUT)')</message>
+</record>
+<record>
+  <date>2020-03-18T20:20:02</date>
+  <millis>1584543002721</millis>
+  <sequence>191</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:f.write('')</message>
+</record>
+<record>
+  <date>2020-03-18T20:20:02</date>
+  <millis>1584543002722</millis>
+  <sequence>192</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:f.write('while(True):')</message>
+</record>
+<record>
+  <date>2020-03-18T20:20:02</date>
+  <millis>1584543002724</millis>
+  <sequence>193</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:f.write('    pin1.on()')</message>
+</record>
+<record>
+  <date>2020-03-18T20:20:02</date>
+  <millis>1584543002727</millis>
+  <sequence>194</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:f.write('    time.sleep(1)')</message>
+</record>
+<record>
+  <date>2020-03-18T20:20:02</date>
+  <millis>1584543002729</millis>
+  <sequence>195</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:f.write('#    pin1.off()')</message>
+</record>
+<record>
+  <date>2020-03-18T20:20:02</date>
+  <millis>1584543002731</millis>
+  <sequence>196</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:f.write('#    time.sleep(2)')</message>
+</record>
+<record>
+  <date>2020-03-18T20:20:02</date>
+  <millis>1584543002732</millis>
+  <sequence>197</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:f.write('    ')</message>
+</record>
+<record>
+  <date>2020-03-18T20:20:02</date>
+  <millis>1584543002734</millis>
+  <sequence>198</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:f.close()</message>
+</record>
+<record>
+  <date>2020-03-18T20:20:02</date>
+  <millis>1584543002743</millis>
+  <sequence>199</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Operation done. Duration = 54 ms</message>
+</record>
+<record>
+  <date>2020-03-18T20:20:06</date>
+  <millis>1584543006061</millis>
+  <sequence>200</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Close port COM3 - Success.</message>
+</record>
+<record>
+  <date>2020-03-18T20:20:09</date>
+  <millis>1584543009036</millis>
+  <sequence>201</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Serial port COM3 save as default.</message>
+</record>
+<record>
+  <date>2020-03-18T20:20:09</date>
+  <millis>1584543009037</millis>
+  <sequence>202</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Baud rate 115200 save as default.</message>
+</record>
+<record>
+  <date>2020-03-18T20:20:09</date>
+  <millis>1584543009038</millis>
+  <sequence>203</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Try to open port COM3, baud 115200, 8N1</message>
+</record>
+<record>
+  <date>2020-03-18T20:20:09</date>
+  <millis>1584543009046</millis>
+  <sequence>204</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Open port COM3 - Success.</message>
+</record>
+<record>
+  <date>2020-03-18T20:20:19</date>
+  <millis>1584543019634</millis>
+  <sequence>205</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>DataSender: start "Dumb Mode"</message>
+</record>
+<record>
+  <date>2020-03-18T20:20:19</date>
+  <millis>1584543019634</millis>
+  <sequence>206</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>SendToESP: Starting...</message>
+</record>
+<record>
+  <date>2020-03-18T20:20:19</date>
+  <millis>1584543019645</millis>
+  <sequence>207</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:import time</message>
+</record>
+<record>
+  <date>2020-03-18T20:20:19</date>
+  <millis>1584543019647</millis>
+  <sequence>208</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:import machine</message>
+</record>
+<record>
+  <date>2020-03-18T20:20:19</date>
+  <millis>1584543019653</millis>
+  <sequence>209</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:</message>
+</record>
+<record>
+  <date>2020-03-18T20:20:19</date>
+  <millis>1584543019659</millis>
+  <sequence>210</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:pin=machine.Pin(14,machine.Pin.OUT)</message>
+</record>
+<record>
+  <date>2020-03-18T20:20:19</date>
+  <millis>1584543019665</millis>
+  <sequence>211</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:</message>
+</record>
+<record>
+  <date>2020-03-18T20:20:19</date>
+  <millis>1584543019674</millis>
+  <sequence>212</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:pin1=machine.Pin(2,machine.Pin.OUT)</message>
+</record>
+<record>
+  <date>2020-03-18T20:20:19</date>
+  <millis>1584543019680</millis>
+  <sequence>213</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:pin2=machine.Pin(16,machine.Pin.OUT)</message>
+</record>
+<record>
+  <date>2020-03-18T20:20:19</date>
+  <millis>1584543019686</millis>
+  <sequence>214</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:</message>
+</record>
+<record>
+  <date>2020-03-18T20:20:19</date>
+  <millis>1584543019693</millis>
+  <sequence>215</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:while(True):</message>
+</record>
+<record>
+  <date>2020-03-18T20:20:19</date>
+  <millis>1584543019700</millis>
+  <sequence>216</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:    pin1.on()</message>
+</record>
+<record>
+  <date>2020-03-18T20:20:19</date>
+  <millis>1584543019708</millis>
+  <sequence>217</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:    time.sleep(1)</message>
+</record>
+<record>
+  <date>2020-03-18T20:20:19</date>
+  <millis>1584543019714</millis>
+  <sequence>218</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:#    pin1.off()</message>
+</record>
+<record>
+  <date>2020-03-18T20:20:19</date>
+  <millis>1584543019721</millis>
+  <sequence>219</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:#    time.sleep(2)</message>
+</record>
+<record>
+  <date>2020-03-18T20:20:19</date>
+  <millis>1584543019728</millis>
+  <sequence>220</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:    </message>
+</record>
+<record>
+  <date>2020-03-18T20:20:19</date>
+  <millis>1584543019736</millis>
+  <sequence>221</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Operation done. Duration = 108 ms</message>
+</record>
+<record>
+  <date>2020-03-18T20:21:14</date>
+  <millis>1584543074284</millis>
+  <sequence>222</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Close port COM3 - Success.</message>
+</record>
+<record>
+  <date>2020-03-18T20:21:15</date>
+  <millis>1584543075500</millis>
+  <sequence>223</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Serial port COM3 save as default.</message>
+</record>
+<record>
+  <date>2020-03-18T20:21:15</date>
+  <millis>1584543075501</millis>
+  <sequence>224</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Baud rate 115200 save as default.</message>
+</record>
+<record>
+  <date>2020-03-18T20:21:15</date>
+  <millis>1584543075501</millis>
+  <sequence>225</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Try to open port COM3, baud 115200, 8N1</message>
+</record>
+<record>
+  <date>2020-03-18T20:21:15</date>
+  <millis>1584543075510</millis>
+  <sequence>226</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Open port COM3 - Success.</message>
+</record>
+<record>
+  <date>2020-03-18T20:21:29</date>
+  <millis>1584543089251</millis>
+  <sequence>227</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>DataSender: start "Dumb Mode"</message>
+</record>
+<record>
+  <date>2020-03-18T20:21:29</date>
+  <millis>1584543089251</millis>
+  <sequence>228</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>SendToESP: Starting...</message>
+</record>
+<record>
+  <date>2020-03-18T20:21:29</date>
+  <millis>1584543089260</millis>
+  <sequence>229</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:import time</message>
+</record>
+<record>
+  <date>2020-03-18T20:21:29</date>
+  <millis>1584543089263</millis>
+  <sequence>230</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:import machine</message>
+</record>
+<record>
+  <date>2020-03-18T20:21:29</date>
+  <millis>1584543089269</millis>
+  <sequence>231</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:</message>
+</record>
+<record>
+  <date>2020-03-18T20:21:29</date>
+  <millis>1584543089274</millis>
+  <sequence>232</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:pin=machine.Pin(14,machine.Pin.OUT)</message>
+</record>
+<record>
+  <date>2020-03-18T20:21:29</date>
+  <millis>1584543089280</millis>
+  <sequence>233</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:</message>
+</record>
+<record>
+  <date>2020-03-18T20:21:29</date>
+  <millis>1584543089285</millis>
+  <sequence>234</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:pin1=machine.Pin(2,machine.Pin.OUT)</message>
+</record>
+<record>
+  <date>2020-03-18T20:21:29</date>
+  <millis>1584543089291</millis>
+  <sequence>235</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:pin2=machine.Pin(16,machine.Pin.OUT)</message>
+</record>
+<record>
+  <date>2020-03-18T20:21:29</date>
+  <millis>1584543089297</millis>
+  <sequence>236</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:</message>
+</record>
+<record>
+  <date>2020-03-18T20:21:29</date>
+  <millis>1584543089300</millis>
+  <sequence>237</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:while(True):</message>
+</record>
+<record>
+  <date>2020-03-18T20:21:29</date>
+  <millis>1584543089305</millis>
+  <sequence>238</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:    pin1.on()</message>
+</record>
+<record>
+  <date>2020-03-18T20:21:29</date>
+  <millis>1584543089311</millis>
+  <sequence>239</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:    time.sleep(1)</message>
+</record>
+<record>
+  <date>2020-03-18T20:21:29</date>
+  <millis>1584543089316</millis>
+  <sequence>240</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:    pin1.off()</message>
+</record>
+<record>
+  <date>2020-03-18T20:21:29</date>
+  <millis>1584543089322</millis>
+  <sequence>241</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:    time.sleep(2)</message>
+</record>
+<record>
+  <date>2020-03-18T20:21:29</date>
+  <millis>1584543089328</millis>
+  <sequence>242</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:    </message>
+</record>
+<record>
+  <date>2020-03-18T20:21:29</date>
+  <millis>1584543089346</millis>
+  <sequence>243</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Operation done. Duration = 111 ms</message>
+</record>
+<record>
+  <date>2020-03-18T20:28:37</date>
+  <millis>1584543517748</millis>
+  <sequence>244</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Close port COM3 - Success.</message>
+</record>
+<record>
+  <date>2020-03-18T20:28:39</date>
+  <millis>1584543519763</millis>
+  <sequence>245</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Serial port COM3 save as default.</message>
+</record>
+<record>
+  <date>2020-03-18T20:28:39</date>
+  <millis>1584543519764</millis>
+  <sequence>246</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Baud rate 115200 save as default.</message>
+</record>
+<record>
+  <date>2020-03-18T20:28:39</date>
+  <millis>1584543519764</millis>
+  <sequence>247</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Try to open port COM3, baud 115200, 8N1</message>
+</record>
+<record>
+  <date>2020-03-18T20:28:39</date>
+  <millis>1584543519773</millis>
+  <sequence>248</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Open port COM3 - Success.</message>
+</record>
+<record>
+  <date>2020-03-18T20:29:00</date>
+  <millis>1584543540113</millis>
+  <sequence>249</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>DataSender: start "Dumb Mode"</message>
+</record>
+<record>
+  <date>2020-03-18T20:29:00</date>
+  <millis>1584543540114</millis>
+  <sequence>250</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>SendToESP: Starting...</message>
+</record>
+<record>
+  <date>2020-03-18T20:29:00</date>
+  <millis>1584543540122</millis>
+  <sequence>251</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:import time</message>
+</record>
+<record>
+  <date>2020-03-18T20:29:00</date>
+  <millis>1584543540124</millis>
+  <sequence>252</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:import machine</message>
+</record>
+<record>
+  <date>2020-03-18T20:29:00</date>
+  <millis>1584543540131</millis>
+  <sequence>253</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:</message>
+</record>
+<record>
+  <date>2020-03-18T20:29:00</date>
+  <millis>1584543540136</millis>
+  <sequence>254</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:pin=machine.Pin(14,machine.Pin.OUT)</message>
+</record>
+<record>
+  <date>2020-03-18T20:29:00</date>
+  <millis>1584543540142</millis>
+  <sequence>255</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:</message>
+</record>
+<record>
+  <date>2020-03-18T20:29:00</date>
+  <millis>1584543540148</millis>
+  <sequence>256</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:pin1=machine.Pin(2,machine.Pin.OUT)</message>
+</record>
+<record>
+  <date>2020-03-18T20:29:00</date>
+  <millis>1584543540153</millis>
+  <sequence>257</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:pin2=machine.Pin(16,machine.Pin.OUT)</message>
+</record>
+<record>
+  <date>2020-03-18T20:29:00</date>
+  <millis>1584543540156</millis>
+  <sequence>258</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:pin3=machine.Pin(4,machine.Pin.OUT)</message>
+</record>
+<record>
+  <date>2020-03-18T20:29:00</date>
+  <millis>1584543540160</millis>
+  <sequence>259</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:</message>
+</record>
+<record>
+  <date>2020-03-18T20:29:00</date>
+  <millis>1584543540166</millis>
+  <sequence>260</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:</message>
+</record>
+<record>
+  <date>2020-03-18T20:29:00</date>
+  <millis>1584543540173</millis>
+  <sequence>261</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:while(True):</message>
+</record>
+<record>
+  <date>2020-03-18T20:29:00</date>
+  <millis>1584543540179</millis>
+  <sequence>262</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:    pin1.on()</message>
+</record>
+<record>
+  <date>2020-03-18T20:29:00</date>
+  <millis>1584543540184</millis>
+  <sequence>263</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:    pin3.on()</message>
+</record>
+<record>
+  <date>2020-03-18T20:29:00</date>
+  <millis>1584543540190</millis>
+  <sequence>264</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:    time.sleep(1)</message>
+</record>
+<record>
+  <date>2020-03-18T20:29:00</date>
+  <millis>1584543540195</millis>
+  <sequence>265</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:    pin1.off()</message>
+</record>
+<record>
+  <date>2020-03-18T20:29:00</date>
+  <millis>1584543540201</millis>
+  <sequence>266</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:    pin3.off()</message>
+</record>
+<record>
+  <date>2020-03-18T20:29:00</date>
+  <millis>1584543540206</millis>
+  <sequence>267</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:    time.sleep(2)</message>
+</record>
+<record>
+  <date>2020-03-18T20:29:00</date>
+  <millis>1584543540212</millis>
+  <sequence>268</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:    </message>
+</record>
+<record>
+  <date>2020-03-18T20:29:00</date>
+  <millis>1584543540219</millis>
+  <sequence>269</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Operation done. Duration = 112 ms</message>
+</record>
